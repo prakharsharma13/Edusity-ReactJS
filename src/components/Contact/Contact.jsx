@@ -46,15 +46,15 @@ const Contact = () => {
         <ul>
           <li>
             <img src={mail_icon} alt="" />
-            Contact@prakhar.com
+            prakharsharma752@gmail.com
           </li>
           <li>
             <img src={phone_icon} alt="" />
-            +1 123-456-7890
+            +91 7999923489
           </li>
           <li>
             <img src={location_icon} alt="" />
-            77 Massachusetts Ave, Cambridge MA 02139, United States
+            Bhopal, Madhya Pradesh
           </li>
         </ul>
       </div>
